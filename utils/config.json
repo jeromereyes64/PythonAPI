@@ -1,0 +1,10 @@
+{
+    "qa": {
+        "base_url": "https://reqres.in/api/",
+        "auth_token": null
+    },
+    "uat": {
+        "base_url": "https://reqres.in/api/uat",
+        "auth_token": null
+    }
+}
